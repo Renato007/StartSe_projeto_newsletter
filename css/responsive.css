@@ -1,0 +1,25 @@
+@media (max-width:1000px){
+    main .container-main div{
+        margin: auto;
+    }
+
+    main .container-main img{
+        display: none;
+    }
+    h2{
+        margin-left: 50px;
+        text-align: center;
+    }
+    div h3 {
+        text-align: center;
+        margin-left: 50px;
+    }
+
+    form {
+        display: flex;
+        align-items: center;
+        width: 100%;
+        text-align: center;
+        flex-direction: column;
+        }
+}
